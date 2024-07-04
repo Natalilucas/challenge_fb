@@ -2,14 +2,14 @@
 
 # Test Cases
 
-Case 1: Form filled successfully.
-Case 2: Form filled without the name.
-Case 3: Form filled without the email.
-Case 4: Form filled without the password.
-Case 5: Form filled with an already registered email.
-Case 6: User tries to log in without registration.
-Case 7: User logs in after registration with correct data.
-Case 8: User tries to log in with an incorrect password.
+1. Form filled successfully.
+2. Form filled without the name.
+2. Form filled without the email.
+4. Form filled without the password.
+5. Form filled with an already registered email.
+6. User tries to log in without registration.
+7. User logs in after registration with correct data.
+8. User tries to log in with an incorrect password.
 
 # Test Case 1: Successfully Filled Form (AC1, AC2, AC3)
 
