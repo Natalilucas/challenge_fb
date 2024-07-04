@@ -1,5 +1,10 @@
 #### This tests plans was based on ISTQB definitions
 
+##### AC1: Deve existir um formulário de registo com campos para nome, email e senha.
+##### AC2: O sistema deve validar se o email inserido é único na base de dados.
+##### AC3: Após o registo bem-sucedido, o usuário deve receber um email de confirmação.
+##### AC4: O usuário recém-registo deve ter a possibilidade de efetuar o login com as credenciais fornecidas durante o registo.
+
 # Test Cases
 
 1. Form filled successfully.
