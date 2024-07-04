@@ -1,4 +1,4 @@
-This tests plans was based on ISTQB definitions
+#### This tests plans was based on ISTQB definitions
 
 Case 1: Form filled successfully.
 Case 2: Form filled without the name.
@@ -13,16 +13,16 @@ Test Case 1: Successfully Filled Form (AC1, AC2, AC3)
 
 Description: Verify the registration form is successfully submitted by filling in all fields with valid inputs.
 
-Preconditions:
+# Preconditions:
     1. The user must access the registration screen.
     2. Fields must be enabled to receive data.
     3. The user must not already be registered.
     4. The email must not be duplicated.
-Inputs:
+# Inputs:
     1. Valid name, e.g., Natali Lucas.
     2. Valid email, e.g., natali_l@hotmail.com.
     3. Valid password, e.g., 123456.
-Actions:
+# Actions:
     1. Access the registration screen.
     2. Correctly fill in the name field with a valid input.
     3. Correctly fill in the email field with a valid input.
